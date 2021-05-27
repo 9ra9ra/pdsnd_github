@@ -135,7 +135,7 @@ def time_stats(df):
         "The most popular start hour given selected data is: " + str(popular_start_hour)
     )
 
-    print("\nThis took %.1f seconds." % (time.time() - start_time))
+    print("\nThis took %.1f seconds!" % (time.time() - start_time))
     print("-" * 40)
 
 
