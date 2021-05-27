@@ -7,7 +7,7 @@
     ** Bikeshare Project
 
 ### Description
-    ** Let users explore the bikeshare data from three cities;
+    ** Users can explore the bikeshare data from three cities;
         - new_york_city
         - washington
         - chicago
@@ -30,4 +30,4 @@
     - washington.read_csv
 
 ### Credits
-Give big thanks to all those people who inquired about how to use git and github on numerous websites and got responded in the past.  
+Give big thanks to all those people who inquired about how to use git and github on numerous websites and got responses in the past. Bansai to open resource.  
