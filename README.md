@@ -4,7 +4,7 @@
     - May 25th, 2021
 
 ### Project Title
-    ** Bikeshare Project
+    ** Bikeshare Project (Udacity)
 
 ### Description
     ** Users can explore the bikeshare data from three cities;
